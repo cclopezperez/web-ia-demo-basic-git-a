@@ -12,3 +12,4 @@ $(document).ready(function () {
     $(".title").css({ "background-position": traX + "%" + traY + "%" });
   });
 });
+
